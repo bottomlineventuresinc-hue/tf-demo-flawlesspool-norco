@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-074-flawlesspool Flawless Pool Service (Wave 15 2026-10-01 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 15 files: see builds/_assets_dl/wave15/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave15/pool-net-clean.jpg : Clean pool with a net pole on the deck (wordpress CC0 1.0 https://wordpress.org/photos/photo/15364768a3/)
+services-trade.jpg <- wave15/pool-cleaner-hose.jpg : Automatic pool cleaner and hose working in the water (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Pool-cleaner.jpg)
+people-crew.jpg <- wave15/pool-rail-clean.jpg : Clean pool with a hand rail and steps (rawpixel CC0 1.0 https://www.rawpixel.com/image/5940670/free-public-domain-cc0-photo)
+people-marek.jpg <- wave15/pool-cleaner-robot.jpg : Robotic cleaner working along the pool floor (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/54787938460)
+people-tom.jpg <- wave15/spa-indoor.jpg : Indoor spa with clean water (rawpixel CC0 1.0 https://www.rawpixel.com/image/5912911/photo-image-light-public-domain-house)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+pool-water-murky.jpg <- wave15/pool-water-murky.jpg : Cloudy, murky pool water with a hose floating in it, before cleaning (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/791328451)
+pool-water-clear.jpg <- wave15/pool-water-clear.jpg : Clear blue pool water with a beach ball (rawpixel CC0 1.0 https://www.rawpixel.com/image/5950507/free-public-domain-cc0-photo)
+pool-leaves-debris.jpg <- wave15/pool-leaves-debris.jpg : Pool water with leaves and debris floating, before cleaning (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/145874413@N08/27394478808)
+pool-deck-clean.jpg <- wave15/pool-deck-clean.jpg : Clean pool with a paver deck (rawpixel CC0 1.0 https://www.rawpixel.com/image/5941276/free-public-domain-cc0-photo)
+pool-green-above.jpg <- wave15/pool-green-above.jpg : Green pool water next to a clear blue pool, seen from above (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Pool_dirty.JPG)
+pool-spa-yard.jpg <- wave15/pool-spa-yard.jpg : Pool and raised spa in a dry-climate backyard, water clear (rawpixel CC0 1.0 https://www.rawpixel.com/image/582391/carol-highsmiths-arizona-photograph)
+
+Note: New trade (pool and spa maintenance): wave15 set, no person in any photo, and every photo shows an existing pool or spa, its water, or its equipment. Services come from the packet trade class and directory category only: pool and spa maintenance. CEO call: the same-name domain in the packet (it redirects to an unrelated business) is never mentioned or linked, and no domain idea contains that name or the other flawless pool names in the packet. No personal name anywhere, only the business wordmark and 'the owner'; the page does not claim the owner answers every call (the packet notes a possible crew). Same-name pool businesses in other states are not named.
